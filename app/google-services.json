@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "400816612085",
+    "project_id": "web-api-wromo",
+    "storage_bucket": "web-api-wromo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400816612085:android:c174a004c10698da58dbbc",
+        "android_client_info": {
+          "package_name": "com.wromo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400816612085-a2bbv2af0ukt9l46cr4seknljp418rqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wromo.app",
+            "certificate_hash": "69ee3ee9c29688c0e40d22f9f4a24815e37ee1ab"
+          }
+        },
+        {
+          "client_id": "400816612085-6bvt6dput14uivumois6rmp8o9nnb9s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQPLVmJpOnHoFvh6F6NgkbALcw3BNkeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400816612085-6bvt6dput14uivumois6rmp8o9nnb9s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400816612085:android:afcc862c04c7b3f058dbbc",
+        "android_client_info": {
+          "package_name": "com.wromo.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400816612085-oi6lk14svs5lqv7488kt2nr1e5j5gjch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wromo.shop",
+            "certificate_hash": "86d10a293fa143278da82b7c2d67b08d87ca809f"
+          }
+        },
+        {
+          "client_id": "400816612085-6bvt6dput14uivumois6rmp8o9nnb9s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQPLVmJpOnHoFvh6F6NgkbALcw3BNkeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400816612085-6bvt6dput14uivumois6rmp8o9nnb9s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400816612085:android:ac09c356ef23b41158dbbc",
+        "android_client_info": {
+          "package_name": "com.wromo.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400816612085-pce4pg7mqlp35ih4j9cp77c6nr869jf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wromo.vendor",
+            "certificate_hash": "2de32dda3cc10b6260caea8c1db219bdfeb1c90c"
+          }
+        },
+        {
+          "client_id": "400816612085-6bvt6dput14uivumois6rmp8o9nnb9s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQPLVmJpOnHoFvh6F6NgkbALcw3BNkeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400816612085-6bvt6dput14uivumois6rmp8o9nnb9s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
